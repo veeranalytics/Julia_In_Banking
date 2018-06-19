@@ -22,7 +22,7 @@ Julia In Banking for Loan Prediction, Credit Card Fraud Transaction and Credit R
 * Used Shiny to deploy the model.
 * The application can be accessed at https://veeranalytics.shinyapps.io/CreditRiskScorecard/
 
-## Artificial Neural Network package for Julia-- vFin.jl
+## Artificial Neural Network package for Julia-- vModels.jl
 * Created a Julia package to develop Artificial Neural Network models.
 * Includes functions for Data Preprocessing and Model Validation.
-* The package can be accesses at https://veeranalytics.shinyapps.io/vFin/
+* The package can be accesses at https://veeranalytics.shinyapps.io/vModels.jl/
